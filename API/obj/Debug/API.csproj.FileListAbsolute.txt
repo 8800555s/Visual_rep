@@ -1,0 +1,9 @@
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\bin\Debug\API.exe.config
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\bin\Debug\API.exe
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\bin\Debug\API.pdb
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\obj\Debug\API.exe
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\API\API\obj\Debug\API.pdb
